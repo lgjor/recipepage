@@ -36,7 +36,7 @@ O Technews é um portal de notícias.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [Desse link](https://www.figma.com/community/file/1362166020452569562/portal-de-noticias). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [Desse link](https://www.figma.com/community/file/1360315130061454535). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
