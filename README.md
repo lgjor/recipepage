@@ -20,7 +20,9 @@ Projeto desenvolvido a partir do curso Fullstack da <a href="https://www.rockets
 <p align="center">
   <img src=".github/preview.jpg" width="100%" alt="Página de receitas com flexbox">
 </p>
+<p align="center">
   <a href="https://lgjor.github.io/recipepage/" target="_blank">Preview</a>
+</p>
 
 ## 🚀 Tecnologias
 
